@@ -29,7 +29,7 @@ body{
 .top{
 	top:-41px;
 }
-.right{
+.reight{
 	height: 283px;
 }
 .a1{
@@ -38,4 +38,9 @@ body{
 }
 .a2{
 	font-size: 20px;
+}
+h1{
+	color:red;
+	position: relative;
+	top:-50px;
 }
